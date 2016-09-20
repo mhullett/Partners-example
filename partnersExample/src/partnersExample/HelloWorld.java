@@ -1,7 +1,5 @@
 package partnersExample;
 
-import org.omg.CORBA.SystemException;
-
 public class HelloWorld {
 
 	public static void main(String[] args) {
